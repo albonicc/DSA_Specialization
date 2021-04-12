@@ -1,6 +1,6 @@
 /*
     Author: Nicolas Albo
-    Compiler Flags: g++ -pipe -O2 -std=c ++14 BinarySearch.cpp -lm
+    Compiler Flags: g++ -pipe -O2 -std=c++14 BinarySearch.cpp -lm
     
     Runtime: Theta(n) = log2(n)
 */
