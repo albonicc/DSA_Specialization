@@ -16,3 +16,9 @@ The specialization is conformed of the following courses:
 Compile .cpp files using the following flags:
 
 `g++ -pipe -O2 -std=c++14 <filename> -lm`
+
+## Testing
+
+Programs can be tested by using txt files
+
+`a.out < <filename.txt>`
